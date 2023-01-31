@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
-	<h1>hi,good mrg</h1>
+	<h1>hi,good mrg,bye</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
