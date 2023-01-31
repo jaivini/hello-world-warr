@@ -3,7 +3,7 @@
 <title>Helloo World!</title>
 </head>
 <body>
-	<h1>Helloo Woorld!</h1>
+	<h1>Helloo wWoorld!</h1>
 	<h1>hi,good mrg,bye</h1>
 	<h1>aabcaa</h1>
 	<p>
